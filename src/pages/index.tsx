@@ -2,7 +2,6 @@ import Checkbox from "../components/Checkbox";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 import { useState } from "react";
-import Announcement from "../components/Announcement";
 
 export const checkboxes = [
   { id: 1, option: "Letters" },
